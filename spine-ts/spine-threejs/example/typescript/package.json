@@ -13,7 +13,7 @@
         "three": "0.162.0"
     },
     "devDependencies": {
-        "esbuild": "0.17.17",
+        "esbuild": "0.25.0",
         "concurrently": "^7.6.0",
         "live-server": "^1.2.2"
     }
